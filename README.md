@@ -140,6 +140,8 @@ class LoginComponent extends React.Component {
 }
 ```
 
+> Note: Ensure that `id`, `name`, `email`, `accountId`, `accountName` & `signUpDate` are sent as `string` 
+
 ### 3. Logout
 If a user logs out, the user can be reset to anonymous user just by calling the `logout` API. Make sure this method is called when the user logs out, so that login screen tracking and other information not related to the user does not get linked to the user.
 
