@@ -4,7 +4,7 @@
 * [Linking the project](https://github.com/useriq-com/useriq-react-native#linking-the-project)
 * [Usage](https://github.com/useriq-com/useriq-react-native#usage)
 * [API & Usage](https://github.com/useriq-com/useriq-react-native#api--usage)
-
+* [Support](https://github.com/useriq-com/useriq-react-native#support)
 ---
 
 ## Installing React-native SDK
@@ -152,3 +152,7 @@ If a user logs out, the user can be reset to anonymous user just by calling the 
 # API & USAGE
 
 For more details on API & usage, please refer to [wiki page](https://github.com/useriq-com/useriq-react-native/wiki)
+
+### Support
+If you face any other issues while integrating the UserIQ SDK [raise a ticket](https://support.useriq.com/hc/en-us/requests/new)
+
