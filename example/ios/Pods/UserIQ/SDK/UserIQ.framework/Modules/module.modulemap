@@ -1,6 +1,0 @@
-framework module UserIQ {
-  umbrella header "UserIQ.h"
-
-  export *
-  module * { export * }
-}
