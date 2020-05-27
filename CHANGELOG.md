@@ -3,6 +3,13 @@
 All notable changes in Android SDK are documented here. We adhere to
 [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+### [2.6.4] - 2020-05-27
+
+#### Fixed
+- Removed conflicting dependency
+
+---
+
 ### [2.6.3] - 2020-01-04
 
 #### Fixed
